@@ -1,4 +1,4 @@
-# ECBP-01 Best Practices and Software that Implements ECIP-1049.
+# ECBP-1: Best Practices and Software that Implements Keccak-256 Proof of Work.
 Best Practices for Ethereum Classic Keccak-256 Mining. All practcies here comply with the ECIP-1049 standard and activate at Block 13,500,000. Estimated to be 9 Months from the date of acceptance.
 
 Every resource on this page is maintained by volunteers and companies, and is added to the page or removed based on whether we recogonize it as complying with the protocl. All management of this is handled through Github Issues.
