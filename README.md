@@ -41,8 +41,33 @@ Lite Node Support: Able to verify the Ethereum Classic network proof after imple
 
 ## Mining Hardware
 
-## Pool Software 
+| Name | URL | Status | Speed | Energy
+| --- | --- | --- | --- | --- |
+| Atom Miner AM01 | https://atomminer.com/ | Unknown | 540 MH/s | 18W
+| Black Miner F1 | Unkown | Unknown | 35.2 GH/s | 1020W
+
+## Hardware Makers
+
+To be listed as a manufacturer on this page means your hardware works with ECIP-1049.  
+
+| Name | URL | Info | Status
+| --- | --- | --- | --- |
+| Atom Miner| https://atomminer.com/ | Mining chip maker| Unknown
+| Bitfury Group | https://bitfury.com/ | Mining chip maker, and pool operator | Experimental
+| Bitmain | https://www.bitmain.com/| Mining chip maker, and pool operator | Experimental
+| Cannan | https://canaan.io/ | Mining chip maker | Unknown
+| Epic Blockchain | https://www.epicblockchain.io/ | Mining chip maker. | Experimental
+| Innosilicon | https://www.innosilicon.com/ | Mining chip maker | Unknown
+| Whatsminer | https://whatsminer.net/ | Mining chip maker | Unknown
+
+We choose to only list hardware manufactures that are in good standing with the community.
 
 ## Exchanges
 
+| Name | URL | Status | Info
+| --- | --- | --- | --- |
+
 ## Mining Pools
+
+| Name | URL | Status | Info
+| --- | --- | --- | --- |
